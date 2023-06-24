@@ -25,8 +25,7 @@
   "content_scripts": [
     {
       "matches": [
-        "https://argus.ge/*"
-        
+        "https://argus.iliauni.edu.ge/*"
       ],
       "js": ["script.js"],
       "run_at": "document_start"
